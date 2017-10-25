@@ -8,4 +8,4 @@
 * The user should see the current time and date underneath the "Hello World" display.
 * The current time and date should be fetched from a web service of your own creation exposing an endpoint that provides the time and date at the time of the request.
 
-When you have satisifed these requirements, let us know!
+When you have satisifed these requirements, let us know! Throughout these challenges, keep in mind that **function** is far more important than form. Something that works is better than something that is aesthetically pleasing, at least in the context of the Intern Day challenges.
